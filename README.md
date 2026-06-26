@@ -150,6 +150,24 @@ A regression line is also added to visualize how closely the predictions match t
 
 # Conclusion
 
+Linear Regression
+
+<img width="458" height="463" alt="image" src="https://github.com/user-attachments/assets/9f50e413-38bd-45a9-a951-92f5ea64faa1" />  
+
+---
+
+Random Forest
+
+<img width="445" height="463" alt="image" src="https://github.com/user-attachments/assets/3dc26317-9ae4-40a0-bb6d-58aa7e2b4231" />
+
+---
+
+Gradient Boosting Regressor
+
+<img width="458" height="463" alt="image" src="https://github.com/user-attachments/assets/990109b5-de5b-4369-80e7-2f2d100dfdb8" />
+
+---
+
 Among the three machine learning algorithms tested:
 
 - **Gradient Boosting Regressor** achieved the highest prediction accuracy with a **Test R² Score of approximately 0.6660**, making it the best-performing model for this dataset.
